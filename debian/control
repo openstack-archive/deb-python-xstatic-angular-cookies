@@ -20,7 +20,7 @@ Pre-Depends: dpkg (>= 1.15.6~)
 Depends: libjs-angularjs (<< 1.2.17),
          libjs-angularjs (>= 1.2.16),
          python-xstatic,
-         python-xstatic-angular (= 1.2.16.1),
+         python-xstatic-angular,
          ${misc:Depends},
          ${python:Depends}
 Description: Angular JS Cookies XStatic support - Python 2.x
@@ -53,7 +53,7 @@ Pre-Depends: dpkg (>= 1.15.6~)
 Depends: libjs-angularjs (<< 1.2.17),
          libjs-angularjs (>= 1.2.16),
          python3-xstatic,
-         python3-xstatic-angular (= 1.2.16.1),
+         python3-xstatic-angular,
          ${misc:Depends},
          ${python3:Depends}
 Description: Angular JS Cookies XStatic support - Python 3.x
