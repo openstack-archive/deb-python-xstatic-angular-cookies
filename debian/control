@@ -8,6 +8,7 @@ Build-Depends: debhelper (>= 9),
                python-setuptools,
                python3-all,
                python3-setuptools
+Build-Conflicts: python-xstatic
 Standards-Version: 3.9.5
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=openstack/python-xstatic-angular-cookies.git
 Vcs-Git: git://anonscm.debian.org/openstack/python-xstatic-angular-cookies.git
@@ -19,6 +20,7 @@ Pre-Depends: dpkg (>= 1.15.6~)
 Depends: libjs-angularjs (<< 1.2.17),
          libjs-angularjs (>= 1.2.16),
          python-xstatic,
+         python-xstatic-angular (= 1.2.16.1),
          ${misc:Depends},
          ${python:Depends}
 Description: Angular JS Cookies XStatic support - Python 2.x
@@ -51,6 +53,7 @@ Pre-Depends: dpkg (>= 1.15.6~)
 Depends: libjs-angularjs (<< 1.2.17),
          libjs-angularjs (>= 1.2.16),
          python3-xstatic,
+         python3-xstatic-angular (= 1.2.16.1),
          ${misc:Depends},
          ${python3:Depends}
 Description: Angular JS Cookies XStatic support - Python 3.x
