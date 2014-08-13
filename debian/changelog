@@ -1,3 +1,9 @@
+python-xstatic-angular-cookies (1.2.16.1-2) unstable; urgency=medium
+
+  * Updated upstream VCS URLs (now on Stackforge).
+
+ -- Thomas Goirand <zigo@debian.org>  Wed, 13 Aug 2014 23:34:43 +0800
+
 python-xstatic-angular-cookies (1.2.16.1-1) unstable; urgency=medium
 
   * Initial release. (Closes: #757783)

@@ -12,7 +12,7 @@ Build-Conflicts: python-xstatic, python3-xstatic
 Standards-Version: 3.9.5
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=openstack/python-xstatic-angular-cookies.git
 Vcs-Git: git://anonscm.debian.org/openstack/python-xstatic-angular-cookies.git
-Homepage: https://bitbucket.org/thesheep/xstatic-angular-cookies
+Homepage: https://github.com/stackforge/xstatic-angular-cookies
 
 Package: python-xstatic-angular-cookies
 Architecture: all
