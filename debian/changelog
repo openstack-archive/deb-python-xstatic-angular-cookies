@@ -3,6 +3,7 @@ python-xstatic-angular-cookies (1.2.24.1-1) unstable; urgency=medium
   * Following the version of the new libjs-angularjs, and fixed dependencies
     accordingly (Closes: #761383).
   * Fixed long description.
+  * Fixed the BASE_DIR to the correct location.
 
  -- Thomas Goirand <zigo@debian.org>  Sun, 14 Sep 2014 17:15:30 +0000
 
