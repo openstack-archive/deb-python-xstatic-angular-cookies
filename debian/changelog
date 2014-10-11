@@ -1,3 +1,9 @@
+python-xstatic-angular-cookies (1.2.24.1-2) unstable; urgency=medium
+
+  * Relaxed version dependency on libjs-angularjs.
+
+ -- Thomas Goirand <zigo@debian.org>  Sat, 11 Oct 2014 07:42:49 +0000
+
 python-xstatic-angular-cookies (1.2.24.1-1) unstable; urgency=medium
 
   * Following the version of the new libjs-angularjs, and fixed dependencies
