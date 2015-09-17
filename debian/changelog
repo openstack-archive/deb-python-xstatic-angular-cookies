@@ -1,3 +1,11 @@
+python-xstatic-angular-cookies (1.2.24.1-3) UNRELEASED; urgency=medium
+
+  * Remove libjs-angularjs package upper cap in Depends field.
+  * Remove Pre-Depends field from debian/control .
+  * Add myself to Uploaders field.
+
+ -- Ivan Udovichenko <iudovichenko@mirantis.com>  Thu, 17 Sep 2015 23:10:49 +0300
+
 python-xstatic-angular-cookies (1.2.24.1-2) unstable; urgency=medium
 
   * Relaxed version dependency on libjs-angularjs.
