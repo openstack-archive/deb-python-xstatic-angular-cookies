@@ -1,0 +1,9 @@
+Code-Review+2: Akihiro Motoki <amotoki@gmail.com>
+Code-Review+2: Radomir Dopieralski <openstack@sheep.art.pl>
+Workflow+1: Radomir Dopieralski <openstack@sheep.art.pl>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 14 Nov 2014 10:06:54 +0000
+Reviewed-on: https://review.openstack.org/113848
+Project: openstack/deb-python-xstatic-angular-cookies
+Branch: refs/heads/master
